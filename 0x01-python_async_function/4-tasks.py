@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Taking the code from wait_n and altering it into a new function task_wait_n
-The code is nearly identical to  the wait_n function except task_wait_random is being called.
 """
 import asyncio
 from asyncio.tasks import Task
