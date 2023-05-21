@@ -75,7 +75,7 @@ class TestGithubOrgClient(unittest.TestCase):
 )
 class TestIntegrationGithubOrgClient(unittest.TestCase):
     """
-    Test integration 
+    Test integration
     """
     @classmethod
     def setUpClass(cls):
